@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I’m Lakshana 👩🏻‍💻
+I consider myself as "Jack of all trades, master in none, but often times better than the master of one"
 
-<!--
-**lakshana-dev/lakshana-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 First-year B.E. Computer science core student and Bsc. Data science at IIT Madras
+- 🔭 Aspiring GSoC Contributor (2026)  
+- 💻 Currently learning Python, Git, GitHub, and Web Development  
+- 🚀 Passionate about building real-world projects and contributing to open-source  
+- 📫 Reach me at lakshanaw7@gmail.com   
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack:  
+Python | Git | GitHub | HTML | CSS | JavaScript (Learning)
